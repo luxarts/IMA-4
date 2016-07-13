@@ -1,6 +1,6 @@
 /*
- *          Just A Midi Pad
- * www.github.com/luxarts/JustAMidiPad
+ *      Interfaz MIDI Argentina 4
+ * www.github.com/luxarts/IMA-4
  * Module: Output
  * Version: 1.0
  *
